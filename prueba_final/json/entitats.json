@@ -4551,6 +4551,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "2024-10-04",
             "Data_actualitzacio": "2024-10-04"
+        },
+        {
+            "Id": "123",
+            "Nom": "Kubernetes test",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció exterior i relacions institucionals (CCAA, Estat i UE)",
+            "Descripcio": "a",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)",
+                    "idescripcio": "s",
+                    "ifitxer_doc": "kubernetesTest.docx",
+                    "ifitxer_xls": "kubernetesTest.xlsx",
+                    "idatacreacio": "2024-10-11",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-10-11",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/3gey-jn2x",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "KUBERNETES_TEST",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2024-10-11",
+            "Data_actualitzacio": "2024-10-11"
         }
     ]
 }
