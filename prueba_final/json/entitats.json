@@ -849,7 +849,7 @@
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "Obsoleta",
+                    "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Conselh Generau d’Aran",
                     "idescripcio": "Versió inicial.",
@@ -857,24 +857,9 @@
                     "ifitxer_xls": "Terçons.xlsx",
                     "idatacreacio": "06/03/2020",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "2024-10-03",
+                    "idataobsoleta": "",
                     "idatapublicacio": "30/06/2021",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Ter%C3%A7ons/izdz-wxxr",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "test",
-                    "iestat": "Publicada",
-                    "itipus": "Tabular",
-                    "ipromotor": "Conselh Generau d’Aran",
-                    "idescripcio": "Versió inicial.",
-                    "ifitxer_doc": "Terçons_ATR.docx",
-                    "ifitxer_xls": "Terçons.xlsx",
-                    "idatacreacio": "2024-10-03",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "2024-10-03",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/kzzr-76a7",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -2793,7 +2778,7 @@
                 },
                 {
                     "inom": "V02",
-                    "iestat": "Obsoleta",
+                    "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
                     "idescripcio": "S'afegeix la comarca del Lluçanès (codi 43).",
@@ -2801,24 +2786,9 @@
                     "ifitxer_xls": "Comarques_Catalunya.xlsx",
                     "idatacreacio": "23/05/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "2024-10-14",
+                    "idataobsoleta": "",
                     "idatapublicacio": "24/05/2023",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Comarques-Catalunya-i-Aran/gsjn-sema",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "test",
-                    "iestat": "Publicada",
-                    "itipus": "Tabular",
-                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
-                    "idescripcio": "S'afegeix la comarca del Lluçanès (codi 43).",
-                    "ifitxer_doc": "Comarques_Catalunya_ATR_1.docx",
-                    "ifitxer_xls": "Comarques_Catalunya_1.xlsx",
-                    "idatacreacio": "2024-10-14",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "2024-10-14",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/xtiv-kdqz",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -4538,62 +4508,6 @@
             "Classificacio": "Pendent",
             "Data_publicacio": "29/04/2024",
             "Data_actualitzacio": "29/04/2024"
-        },
-        {
-            "Id": "1",
-            "Nom": "Kubernetestest",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
-            "Descripcio": "a",
-            "instancies": [
-                {
-                    "inom": "V01",
-                    "iestat": "Publicada",
-                    "itipus": "Tabular",
-                    "ipromotor": "Catàleg Tècnic de Dades - Departament d'Empresa i Treball - Sub. Gral. de  Subdirecció General de Relacions Laborals i Qualitat en el Treball",
-                    "idescripcio": "a",
-                    "ifitxer_doc": "kubernetesTest.docx",
-                    "ifitxer_xls": "kubernetesTest.xlsx",
-                    "idatacreacio": "2024-10-04",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "2024-10-04",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/wiue-p5ni",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "KUBERNETESTEST",
-            "Classificacio": "Consolidat",
-            "Data_publicacio": "2024-10-04",
-            "Data_actualitzacio": "2024-10-04"
-        },
-        {
-            "Id": "123",
-            "Nom": "Kubernetes test",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Acció exterior i relacions institucionals (CCAA, Estat i UE)",
-            "Descripcio": "a",
-            "instancies": [
-                {
-                    "inom": "V01",
-                    "iestat": "Publicada",
-                    "itipus": "Tabular",
-                    "ipromotor": "Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)",
-                    "idescripcio": "s",
-                    "ifitxer_doc": "kubernetesTest.docx",
-                    "ifitxer_xls": "kubernetesTest.xlsx",
-                    "idatacreacio": "2024-10-11",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
-                    "idatapublicacio": "2024-10-11",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/29jb-m5u5",
-                    "itipusactualitzacio": "Sota demanda"
-                }
-            ],
-            "nom_dinsBD": "KUBERNETES_TEST",
-            "Classificacio": "Consolidat",
-            "Data_publicacio": "2024-10-11",
-            "Data_actualitzacio": "2024-10-11"
         }
     ]
 }
