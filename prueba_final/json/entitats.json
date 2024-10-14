@@ -2793,7 +2793,7 @@
                 },
                 {
                     "inom": "V02",
-                    "iestat": "Vigent",
+                    "iestat": "Obsoleta",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
                     "idescripcio": "S'afegeix la comarca del Lluçanès (codi 43).",
@@ -2801,9 +2801,24 @@
                     "ifitxer_xls": "Comarques_Catalunya.xlsx",
                     "idatacreacio": "23/05/2023",
                     "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "",
+                    "idataobsoleta": "2024-10-14",
                     "idatapublicacio": "24/05/2023",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Comarques-Catalunya-i-Aran/gsjn-sema",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "test",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Departament de Justícia, Drets i Memòria - CTEAJE",
+                    "idescripcio": "S'afegeix la comarca del Lluçanès (codi 43).",
+                    "ifitxer_doc": "Comarques_Catalunya_ATR_1.docx",
+                    "ifitxer_xls": "Comarques_Catalunya_1.xlsx",
+                    "idatacreacio": "2024-10-14",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-10-14",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/xtiv-kdqz",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
