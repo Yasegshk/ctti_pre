@@ -4592,6 +4592,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "2024-10-14",
             "Data_actualitzacio": "2024-10-14"
+        },
+        {
+            "Id": "123",
+            "Nom": "Kubernetes ",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "a",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Catàleg Tècnic de Dades - Departament d'Empresa i Treball - Sub. Gral. de  Subdirecció General de Relacions Laborals i Qualitat en el Treball",
+                    "idescripcio": "a",
+                    "ifitxer_doc": "kubernetesTest1.docx",
+                    "ifitxer_xls": "kubernetesTest1.xlsx",
+                    "idatacreacio": "2024-10-15",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-10-15",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/gmrh-9ta3",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "KUBERNETES",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2024-10-15",
+            "Data_actualitzacio": "2024-10-15"
         }
     ]
 }
