@@ -4540,8 +4540,8 @@
         {
             "Id": "123",
             "Nom": "Kubernetes ",
-            "Ambit": "Administració pública, govern i relacions institucionals",
-            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Ambit": "Agricultura, ramaderia, pesca i alimentació",
+            "Subambit": "Agricultura i ramaderia",
             "Descripcio": "a",
             "instancies": [
                 {
@@ -4555,15 +4555,15 @@
                     "idatacreacio": "2024-10-15",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "2024-10-15",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/pr6n-shqh",
+                    "idatapublicacio": "2024-10-16",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/e4ms-mbtn",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "KUBERNETES",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "2024-10-15",
-            "Data_actualitzacio": "2024-10-15"
+            "Data_publicacio": "2024-10-16",
+            "Data_actualitzacio": "2024-10-16"
         }
     ]
 }
