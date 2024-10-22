@@ -4564,6 +4564,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "2024-10-16",
             "Data_actualitzacio": "2024-10-16"
+        },
+        {
+            "Id": "123",
+            "Nom": "Sol",
+            "Ambit": "Comerç, consum i turisme",
+            "Subambit": "Consum",
+            "Descripcio": "s",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Conselh Generau d’Aran",
+                    "idescripcio": "s",
+                    "ifitxer_doc": "",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "2024-10-22",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-10-22",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/m4j3-cjd2",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "SOL",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2024-10-22",
+            "Data_actualitzacio": "2024-10-22"
         }
     ]
 }
