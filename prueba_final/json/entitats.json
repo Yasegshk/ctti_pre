@@ -4607,6 +4607,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "2024-10-22",
             "Data_actualitzacio": "2024-10-22"
+        },
+        {
+            "Id": "123",
+            "Nom": "Dia",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "a",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Publicada",
+                    "itipus": "Tabular",
+                    "ipromotor": "Catàleg Tècnic de Dades - Departament d'Empresa i Treball - Sub. Gral. de  Subdirecció General de Relacions Laborals i Qualitat en el Treball",
+                    "idescripcio": "a",
+                    "ifitxer_doc": "soles.docx",
+                    "ifitxer_xls": "soles.xlsx",
+                    "idatacreacio": "2024-10-23",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "2024-10-23",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/2hrk-s4bt",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "DIA",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "2024-10-23",
+            "Data_actualitzacio": "2024-10-23"
         }
     ]
 }
