@@ -5792,21 +5792,6 @@
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "Obsoleta",
-                    "itipus": "Tabular",
-                    "ipromotor": "Agència de Residus de Catalunya",
-                    "idescripcio": "Test publicación 1",
-                    "ifitxer_doc": "deprecated/",
-                    "ifitxer_xls": "deprecated/",
-                    "idatacreacio": "03/06/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "03/06/2025",
-                    "idatapublicacio": "03/06/2025",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "V02",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Agència de Residus de Catalunya",
@@ -5817,7 +5802,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "03/06/2025",
-                    "iurl_dades_obertes": "",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/xp5d-m76p",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -5835,6 +5820,21 @@
             "instancies": [
                 {
                     "inom": "V01",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Agència de Residus de Catalunya",
+                    "idescripcio": "Test publicación 2",
+                    "ifitxer_doc": "deprecated/",
+                    "ifitxer_xls": "deprecated/",
+                    "idatacreacio": "03/06/2025",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "03/06/2025",
+                    "idatapublicacio": "03/06/2025",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V02",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Agència de Residus de Catalunya",
@@ -5845,7 +5845,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "03/06/2025",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/iwfw-evte",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
