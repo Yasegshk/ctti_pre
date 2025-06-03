@@ -5462,10 +5462,10 @@
         },
         {
             "Id": "dtarq212",
-            "Nom": "Comissionats",
-            "Ambit": "Administració pública",
+            "Nom": "Comissionats de l’Administració de la Generalitat de Catalunya",
+            "Ambit": "Administració pública, govern i relacions institucionals",
             "Subambit": "Organització de l'administració i sector públic",
-            "Descripcio": "Llistat de comissionats d'àmbit d'actuació específic de l'Administració de la Generalitat de Catalunya.",
+            "Descripcio": "Els Comissionats són alts càrrecs que depenen del titular del departament i tindran les funcions i estructura que prevegi la seva norma de creació. Poden assistir a reunions del Govern.",
             "instancies": [
                 {
                     "inom": "V01",
@@ -5477,7 +5477,7 @@
                     "ifitxer_xls": "COMISSIONATS.xlsx",
                     "idatacreacio": "19/12/2024",
                     "itipusvisual": "19/12/2024",
-                    "idataobsoleta": "2025-02-25",
+                    "idataobsoleta": "2025-02-26",
                     "idatapublicacio": "19/12/2024",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Sector-P-blic/Comissionats/sv5v-y7k7/about_data",
                     "itipusactualitzacio": "Sota demanda"
@@ -5490,18 +5490,18 @@
                     "idescripcio": "Actualització nom i descripció de la Dada de referència",
                     "ifitxer_doc": "COMISSIONATS_ATR.docx",
                     "ifitxer_xls": "COMISSIONATS.xlsx",
-                    "idatacreacio": "2025-02-25",
+                    "idatacreacio": "2025-02-26",
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
-                    "idatapublicacio": "2025-02-26",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/wheb-7ury",
+                    "idatapublicacio": "2025-02-27",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/673r-yhyb",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "COMISSIONATS",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "19/12/2024",
-            "Data_actualitzacio": "19/12/2024"
+            "Data_publicacio": "2025-02-27",
+            "Data_actualitzacio": "2025-02-27"
         },
         {
             "Id": "dtarq213",
@@ -5782,6 +5782,62 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "29/01/2025",
             "Data_actualitzacio": "29/01/2025"
+        },
+        {
+            "Id": "xxxxx",
+            "Nom": "[PRE] - Test publicación 1",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "Test publicación 1",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Agència de Residus de Catalunya",
+                    "idescripcio": "Test publicación 1",
+                    "ifitxer_doc": "",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "03/06/2025",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "03/06/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/xp5d-m76p",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "PRE__TEST_PUBLICACION_1",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "03/06/2025",
+            "Data_actualitzacio": "03/06/2025"
+        },
+        {
+            "Id": "xxxxx",
+            "Nom": "[PRE] - Test publicación 2",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "Test publicación 2",
+            "instancies": [
+                {
+                    "inom": "V01",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Agència de Residus de Catalunya",
+                    "idescripcio": "Test publicación 2",
+                    "ifitxer_doc": "",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "03/06/2025",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "03/06/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/iwfw-evte",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "PRE__TEST_PUBLICACION_2",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "03/06/2025",
+            "Data_actualitzacio": "03/06/2025"
         }
     ]
 }
