@@ -5820,21 +5820,6 @@
             "instancies": [
                 {
                     "inom": "V01",
-                    "iestat": "Obsoleta",
-                    "itipus": "Tabular",
-                    "ipromotor": "Agència de Residus de Catalunya",
-                    "idescripcio": "Test publicación 2",
-                    "ifitxer_doc": "deprecated/",
-                    "ifitxer_xls": "deprecated/",
-                    "idatacreacio": "03/06/2025",
-                    "itipusvisual": "Ús no restringit",
-                    "idataobsoleta": "03/06/2025",
-                    "idatapublicacio": "03/06/2025",
-                    "iurl_dades_obertes": "",
-                    "itipusactualitzacio": "Sota demanda"
-                },
-                {
-                    "inom": "V02",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Agència de Residus de Catalunya",
@@ -5845,7 +5830,7 @@
                     "itipusvisual": "Ús no restringit",
                     "idataobsoleta": "",
                     "idatapublicacio": "03/06/2025",
-                    "iurl_dades_obertes": "",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/iwfw-evte",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
@@ -5853,6 +5838,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "03/06/2025",
             "Data_actualitzacio": "03/06/2025"
+        },
+        {
+            "Id": "",
+            "Nom": "PRE - Test publicación noviembre",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "Test publicación noviembre",
+            "instancies": [
+                {
+                    "inom": "V001",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Agència de Residus de Catalunya",
+                    "idescripcio": "Test publicación noviembre",
+                    "ifitxer_doc": "Test_publicación_noviembre.docx",
+                    "ifitxer_xls": "Test_publicación_noviembre.xlsx",
+                    "idatacreacio": "17/11/2025",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "17/11/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/nbup-ivvq",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "PRE__TEST_PUBLICACION_NOVIEMBRE",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "17/11/2025",
+            "Data_actualitzacio": "17/11/2025"
         }
     ]
 }
