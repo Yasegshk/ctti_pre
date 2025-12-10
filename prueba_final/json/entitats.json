@@ -5866,6 +5866,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "17/11/2025",
             "Data_actualitzacio": "17/11/2025"
+        },
+        {
+            "Id": "",
+            "Nom": "PRE_P192",
+            "Ambit": "Comerç, consum i turisme",
+            "Subambit": "Consum",
+            "Descripcio": "Proves preproducció",
+            "instancies": [
+                {
+                    "inom": "V001",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Centre de Telecomunicacions i Tecnologies de la Informació (CTTI)",
+                    "idescripcio": "Proves requisit P192",
+                    "ifitxer_doc": "PRE_P192.docx",
+                    "ifitxer_xls": "PRE_P192.xlsx",
+                    "idatacreacio": "10/12/2025",
+                    "itipusvisual": "",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "10/12/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/2755-7s5j",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "PREP192",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "10/12/2025",
+            "Data_actualitzacio": "10/12/2025"
         }
     ]
 }
