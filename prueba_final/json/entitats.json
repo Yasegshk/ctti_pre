@@ -3056,8 +3056,8 @@
             "Id": "dtarq80",
             "Nom": "Comunitats Autònomes",
             "Ambit": "Territori, infraestructures i urbanisme",
-            "Subambit": "Ordenació del territori, paisatge i urbanisme",
-            "Descripcio": "Llista de comunitats/ciutats autònomes segons INE.",
+            "Subambit": "Ordenació del territori , paisatge i urbanisme",
+            "Descripcio": "Llista de comunitats/ciutats autònomes segons INE. PROVES PREPRODUCCIÓN ÈPICA 5",
             "instancies": [
                 {
                     "inom": "V01",
@@ -3075,7 +3075,7 @@
                     "itipusactualitzacio": "Sota demanda"
                 },
                 {
-                    "inom": "V02",
+                    "inom": "V002",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
@@ -3083,17 +3083,17 @@
                     "ifitxer_doc": "Comunitats_Autonomes_ATR.docx",
                     "ifitxer_xls": "Comunitats_Autonomes.xlsx",
                     "idatacreacio": "21/12/2021",
-                    "itipusvisual": "Ús no restringit",
+                    "itipusvisual": "",
                     "idataobsoleta": "",
-                    "idatapublicacio": "22/12/2021",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Comunitats-Aut%C3%B2nomes/kigx-2vd9",
+                    "idatapublicacio": "10/12/2025",
+                    "iurl_dades_obertes": "",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "COMUNITATS_AUTO",
             "Classificacio": "Consolidat",
-            "Data_publicacio": "20/04/2020",
-            "Data_actualitzacio": "22/12/2021"
+            "Data_publicacio": "10/12/2025",
+            "Data_actualitzacio": "10/12/2025"
         },
         {
             "Id": "dtarq129",
