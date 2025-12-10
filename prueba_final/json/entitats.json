@@ -2998,8 +2998,8 @@
             "Id": "dtarq82",
             "Nom": "Comarques Catalunya i Aran",
             "Ambit": "Territori, infraestructures i urbanisme",
-            "Subambit": "Ordenació del territori, paisatge i urbanisme",
-            "Descripcio": "Llista de les comarques de Catalunya i Aran.",
+            "Subambit": "Ordenació del territori , paisatge i urbanisme",
+            "Descripcio": "Llista de les comarques de Catalunya i Aran.codi_nom",
             "instancies": [
                 {
                     "inom": "V01",
@@ -3018,24 +3018,39 @@
                 },
                 {
                     "inom": "V02",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
+                    "idescripcio": "S'afegeix la comarca del Lluçanès (codi 43).",
+                    "ifitxer_doc": "deprecated/COMARQUES_test.docx",
+                    "ifitxer_xls": "deprecated/COMARQUES_test.xlsx",
+                    "idatacreacio": "23/05/2023",
+                    "itipusvisual": "Ús no restringit",
+                    "idataobsoleta": "10/12/2025",
+                    "idatapublicacio": "24/05/2023",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V003",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
                     "idescripcio": "S'afegeix la comarca del Lluçanès (codi 43).",
-                    "ifitxer_doc": "Comarques_Catalunya_ATR.docx",
-                    "ifitxer_xls": "Comarques_Catalunya.xlsx",
-                    "idatacreacio": "23/05/2023",
-                    "itipusvisual": "Ús no restringit",
+                    "ifitxer_doc": "COMARQUES_test.docx",
+                    "ifitxer_xls": "COMARQUES_test.xlsx",
+                    "idatacreacio": "10/12/2025",
+                    "itipusvisual": "",
                     "idataobsoleta": "",
-                    "idatapublicacio": "24/05/2023",
-                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Comarques-Catalunya-i-Aran/gsjn-sema",
+                    "idatapublicacio": "10/12/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/gsjn-sema",
                     "itipusactualitzacio": "Sota demanda"
                 }
             ],
             "nom_dinsBD": "COMARQUES",
             "Classificacio": "Consolidat",
             "Data_publicacio": "20/04/2020",
-            "Data_actualitzacio": "24/05/2023"
+            "Data_actualitzacio": "10/12/2025"
         },
         {
             "Id": "dtarq80",
