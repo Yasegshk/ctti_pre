@@ -3033,16 +3033,31 @@
                 },
                 {
                     "inom": "V003",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
+                    "idescripcio": "S'afegeix la comarca del Lluçanès (codi 43).",
+                    "ifitxer_doc": "deprecated/COMARQUES_test.docx",
+                    "ifitxer_xls": "deprecated/COMARQUES_test.xlsx",
+                    "idatacreacio": "10/12/2025",
+                    "itipusvisual": "",
+                    "idataobsoleta": "11/12/2025",
+                    "idatapublicacio": "10/12/2025",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V004",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "Institut d'Estadística de Catalunya (Idescat)",
                     "idescripcio": "S'afegeix la comarca del Lluçanès (codi 43).",
                     "ifitxer_doc": "COMARQUES_test.docx",
                     "ifitxer_xls": "COMARQUES_test.xlsx",
-                    "idatacreacio": "10/12/2025",
+                    "idatacreacio": "11/12/2025",
                     "itipusvisual": "",
                     "idataobsoleta": "",
-                    "idatapublicacio": "10/12/2025",
+                    "idatapublicacio": "11/12/2025",
                     "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/gsjn-sema",
                     "itipusactualitzacio": "Sota demanda"
                 }
@@ -3050,7 +3065,7 @@
             "nom_dinsBD": "COMARQUES",
             "Classificacio": "Consolidat",
             "Data_publicacio": "20/04/2020",
-            "Data_actualitzacio": "10/12/2025"
+            "Data_actualitzacio": "11/12/2025"
         },
         {
             "Id": "dtarq80",
