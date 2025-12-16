@@ -5952,6 +5952,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "16/12/2025",
             "Data_actualitzacio": "16/12/2025"
+        },
+        {
+            "Id": "",
+            "Nom": "Test Unitats Promotoras con idsac",
+            "Ambit": "Administració pública, govern i relacions institucionals",
+            "Subambit": "Acció de govern i normativa. desplegament de l'autogovern",
+            "Descripcio": "Test Unitats Promotoras con idsac",
+            "instancies": [
+                {
+                    "inom": "V001",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "Agència Catalana de Turisme (ACT)",
+                    "idescripcio": "Test Unitats Promotoras con idsac",
+                    "ifitxer_doc": "",
+                    "ifitxer_xls": "",
+                    "idatacreacio": "16/12/2025",
+                    "itipusvisual": "",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "16/12/2025",
+                    "iurl_dades_obertes": "https://analisi.transparenciacatalunya.cat/d/ui5c-5cs8",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "TEST_UNITATS_PROMOTORAS_CON_IDSAC",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "16/12/2025",
+            "Data_actualitzacio": "16/12/2025"
         }
     ]
 }
