@@ -5990,6 +5990,21 @@
             "instancies": [
                 {
                     "inom": "V001",
+                    "iestat": "Obsoleta",
+                    "itipus": "Tabular",
+                    "ipromotor": "ACCIÓ a la Catalunya Central",
+                    "idescripcio": "test",
+                    "ifitxer_doc": "deprecated/Test_Correctivo_Canigo_V002.docx",
+                    "ifitxer_xls": "deprecated/Test_Correctivo_Canigo_V002.xlsx",
+                    "idatacreacio": "10/03/2026",
+                    "itipusvisual": "",
+                    "idataobsoleta": "10/03/2026",
+                    "idatapublicacio": "10/03/2026",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                },
+                {
+                    "inom": "V002",
                     "iestat": "Vigent",
                     "itipus": "Tabular",
                     "ipromotor": "ACCIÓ a la Catalunya Central",
