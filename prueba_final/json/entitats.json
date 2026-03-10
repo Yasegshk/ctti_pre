@@ -5980,6 +5980,34 @@
             "Classificacio": "Consolidat",
             "Data_publicacio": "16/12/2025",
             "Data_actualitzacio": "16/12/2025"
+        },
+        {
+            "Id": "",
+            "Nom": "Test Correctivo Canigó",
+            "Ambit": "Agricultura, ramaderia, pesca i alimentació",
+            "Subambit": "Aprofitament forestal i boscos",
+            "Descripcio": "test",
+            "instancies": [
+                {
+                    "inom": "V001",
+                    "iestat": "Vigent",
+                    "itipus": "Tabular",
+                    "ipromotor": "ACCIÓ a la Catalunya Central",
+                    "idescripcio": "test",
+                    "ifitxer_doc": "Test_Correctivo_Canigo.docx",
+                    "ifitxer_xls": "Test_Correctivo_Canigo.xlsx",
+                    "idatacreacio": "10/03/2026",
+                    "itipusvisual": "",
+                    "idataobsoleta": "",
+                    "idatapublicacio": "10/03/2026",
+                    "iurl_dades_obertes": "",
+                    "itipusactualitzacio": "Sota demanda"
+                }
+            ],
+            "nom_dinsBD": "TEST_CORRECTIVO_CANIGO",
+            "Classificacio": "Consolidat",
+            "Data_publicacio": "10/03/2026",
+            "Data_actualitzacio": "10/03/2026"
         }
     ]
 }
